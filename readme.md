@@ -1,5 +1,7 @@
 ## [Somerville Bowline](https://www.theduchy.com/somerville-bowline/#core-technique-quick-overview)
 
+<div class="flow" markdown="1">
+
 - ![](assets/Sommerville-Bowline-01.jpg) 1. Place the bight against the thing to be tied, leaving about 3-5 inches free
 - ![](assets/Sommerville-Bowline-02.jpg) 2. Wrap the lead around 2 or 3 times
 - ![](assets/Sommerville-Bowline-03.jpg) 3. Hold the bight away from the target and loop the tail around it. _Note that with this new loop you have formed a sort of cross_
@@ -12,3 +14,5 @@
 - ![](assets/Sommerville-Bowline-10.jpg) 10. …by tugging the tail
 - ![](assets/Sommerville-Bowline-11.jpg) 11. Once the knot is well formed, tighten more fully
 - ![](assets/Sommerville-Bowline-12.jpg) 12. Done!
+
+</div>
