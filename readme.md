@@ -12,7 +12,9 @@
 <img src="assets/Sommerville-Bowline-10.jpg" height="200vh" align="left">
 <img src="assets/Sommerville-Bowline-11.jpg" height="200vh" align="left">
 <img src="assets/Sommerville-Bowline-12.jpg" height="200vh" align="left">
-<br />
+
+## Text
+
 1. Place the bight against the thing to be tied, leaving about 3-5 inches free<br />
 2. Wrap the lead around 2 or 3 times <br />
 3. Hold the bight away from the target and loop the tail around it. _Note that with this new loop you have formed a sort of cross_<br />
