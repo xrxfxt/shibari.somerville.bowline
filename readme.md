@@ -1,7 +1,7 @@
 ## [Somerville Bowline](https://www.theduchy.com/somerville-bowline/#core-technique-quick-overview)
 
- 1. Place the bight against the thing to be tied, leaving about 3-5 inches free  <img src="assets/Sommerville-Bowline-01.jpg" align="left" height="200vh">
- 2. Wrap the lead around 2 or 3 times <img src="assets/Sommerville-Bowline-02.jpg" align="left" height="200vh">
+ 1. Place the bight against the thing to be tied, leaving about 3-5 inches free  <img src="assets/Sommerville-Bowline-01.jpg" height="200vh">
+ 2. Wrap the lead around 2 or 3 times <img src="assets/Sommerville-Bowline-02.jpg" height="200vh">
 
 ## test
 
