@@ -13,7 +13,7 @@
 12. Once the knot is well formed, tighten more fully<br />
 
 
-<img src="assets/Sommerville-Bowline-01.jpg | height="200vh")
+![](assets/Sommerville-Bowline-01.jpg | height="200vh")
 <img src="assets/Sommerville-Bowline-01.jpg" height="200vh" align="left">
 <img src="assets/Sommerville-Bowline-02.jpg" height="200vh" align="left">
 <img src="assets/Sommerville-Bowline-03.jpg" height="200vh" align="left">
